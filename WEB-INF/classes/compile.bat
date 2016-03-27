@@ -1,0 +1,2 @@
+javac game\models\User.java game\models\GameUsers.java game\controllers\LoginController.java game\config\Setup.java game\controllers\LogoutController.java game\models\Case.java game\controllers\NewGameController.java game\models\GameModel.java game\controllers\GameController.java game\controllers\ResumeGameController.java game\controllers\SaveGameController.java 
+timeout /t -1
